@@ -1,2 +1,0 @@
-# linux
-learning os linux
